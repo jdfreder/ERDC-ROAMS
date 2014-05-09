@@ -1,5 +1,5 @@
 
-from stackedarea import StackedAreaWidget
+from d3plot  import StackedAreaWidget
 from IPython.html.widgets import ContainerWidget, HTMLWidget
 
 class ChartBase(object):
